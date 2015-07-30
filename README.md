@@ -39,3 +39,22 @@ Composition of badges from each other enables a hierarchies or learning trees an
 Including learning activities from external sources such as Pelagios, hypothesis.is, Memrise, digitized paperwork, etc. Can be entered atomically into LRS.
 
 ### ePortfolio Information model
+
+LEAP2A | IMS EP | InLOC | Explanation
+-------|--------|-------|------------
+Person | Identification | | Name, User ID, email, etc.
+Affiliation | Affiliation | | Affiliation with organization
+ | Interest | |
+Plan | Goal | LOCStructure | Hierarchy or sequence of abilities, achievements or activities
+Ability | Competency | LOCStructure | Resulting skill
+Achievement / Transcript | Qualification | LOCStructure | Packaging of skills / activities
+Activity | Activity | LOCStructure / LOCDefinition | Activities can be recursive in all 3 specs
+ | Assertion | | 
+ | Participation | | 	
+Publication / Resource | Product | ? | Instances of learning material or outcome
+link attribute | Relationship | LOCAssociation | 
+ | Rubric | level property | Information on grading of abilities, achievements and activities
+ | Reflexion | | Comments, notes, etc.
+Meeting | | | 
+Organization | | | 
+Selection | View | | 
