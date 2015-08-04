@@ -58,3 +58,7 @@ link attribute | Relationship | LOCAssociation |
 Meeting | | | 
 Organization | | | 
 Selection | View | | 
+
+### Overall architecture
+
+![Image Hierarchy](http://fbaumgardt.github.io/eportfolio-specs/perseids-ep-hierarchy.svg)
