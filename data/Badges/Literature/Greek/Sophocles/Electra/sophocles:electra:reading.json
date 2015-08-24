@@ -1,0 +1,22 @@
+sophocles/electra/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/sophocles/electra/reading/badge.json",
+  "name": "Sophocles Electra Reading Badge",
+  "description": "For reading Sophocles' Electra.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/sophocles/electra/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/sophocles/electra/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.2.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/2/1",
+      "description": "Read and understand in full the work Electra by Sophocles."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["sophocles", "electra", "tragedy", "reading"]
+}

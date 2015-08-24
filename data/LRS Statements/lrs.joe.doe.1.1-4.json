@@ -1,0 +1,48 @@
+    {
+        "actor": {
+            "name": "Joe Doe",
+            "mbox": "mailto:joe.doe@tufts.edu",
+            "objectType": "Agent",
+        },
+        "verb": {
+            "id": "http://adlnet.gov/expapi/verbs/completed",
+            "display": {
+                "en": "completed"
+            }
+        },
+        "object": {
+            "id": "",
+            "definition": {
+                "name": {
+                    "en": "Translation alignment"
+                },
+                "description": {
+                    "en": "Alignment between the passages in source and target destination."
+                },
+                "type": "http://xapi.perseus.tufts.edu/activitytype/translation_alignment",
+            },
+            "objectType": "Activity",
+            "extensions": {
+                "source": "http://data.perseus.org/catalog/urn:cts:greekLit:tlg0013.tlg001.perseus-grc1:1.1-4",
+                "target": "http://data.perseus.org/catalog/urn:cts:greekLit:tlg0013.tlg001.perseus-eng1:1.1-4"
+            }
+        },
+        "result": {
+            "success": true,
+            "completion": true,
+            "score": {
+                "scaled": 0.72
+            },
+            "duration": "PT1H12M22.22S",
+            "response": "https://github/joe.doe/alignments/tlg0013.tlg001.perseus-grc1.xml"
+        },
+        "authority": {
+            "account": {
+                "name": "SVM-abyx-02.12.2014"
+            },
+            "objectType": "AutoGrader"
+        },
+        "id": "6690e6c9-3ef0-4ed3-8b37-7f3964730bee",
+        "timestamp": "2015-03-18T16:32:34.804Z",
+        "stored": "2015-03-18T16:32:34.804Z",
+    }

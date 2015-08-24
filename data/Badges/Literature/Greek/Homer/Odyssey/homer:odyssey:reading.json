@@ -1,0 +1,22 @@
+homer/odyssey/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/homer/odyssey/reading/badge.json",
+  "name": "Homer Odyssey Reading Badge",
+  "description": "For reading Homer's Odyssey.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/homer/odyssey/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/homer/odyssey/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.EPIC.1.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/EPIC/1/1",
+      "description": "Read and understand in full the work Odyssey by Homer."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["homer", "odyssey", "epic", "reading"]
+}

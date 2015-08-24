@@ -1,0 +1,22 @@
+sophocles/oenomaus/treebanking.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/sophocles/oenomaus/treebanking/badge.json",
+  "name": "Sophocles Oenomaus treebanking Badge",
+  "description": "For treebanking Sophocles' Oenomaus.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/sophocles/oenomaus/treebanking/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/sophocles/oenomaus/treebanking/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.2.2",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/2/2",
+      "description": "Read and understand in full the work Oenomaus by Sophocles."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.2.Y",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/Y",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["sophocles", "oenomaus", "tragedy", "treebanking"]
+}

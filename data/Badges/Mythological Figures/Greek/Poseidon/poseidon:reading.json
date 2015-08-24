@@ -1,0 +1,26 @@
+poseidon/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/poseidon/reading/badge.json",
+  "name": "Poseidon Reading Badge",
+  "description": "For studying Poseidon in Ancient Greek Literature.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/poseidon/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/poseidon/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.DEITY.3.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/DEITY/3/1",
+      "description": "Read and understand Ancient Greek Litature pertaining to the God Poseidon."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.2.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of grammatical rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["poseidon", "deity", "reading"]
+}

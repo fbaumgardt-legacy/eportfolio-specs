@@ -1,0 +1,22 @@
+meter/dactylichexameter/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/meter/dactylichexameter/reading/badge.json",
+  "name": "Dactylic Hexameter Reading Badge",
+  "description": "For studying works of dactylic hexameter.",
+  "image": "https://perseids.github.io/badge-ecosystem/meter/dactylichexameter/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/meter/dactylichexameter/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.METER.2.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/METER/1/1",
+      "description": "Study a set of works in dactylic hexameter."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["dactylic hexameter", "meter", "reading"]
+}

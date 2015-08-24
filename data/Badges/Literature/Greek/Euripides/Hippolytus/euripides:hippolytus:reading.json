@@ -1,0 +1,22 @@
+euripides/hippolytus/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/euripides/hippolytus/reading/badge.json",
+  "name": "Euripides Hippolytus Reading Badge",
+  "description": "For reading Euripides' Hippolytus.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/euripides/hippolytus/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/euripides/hippolytus/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.3.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/3/1",
+      "description": "Read and understand in full the work Hippolytus by Euripides."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/Y",
+      "description": "Identify and understand the use of syntactical rule Y in Ancient Greek."
+    }
+  ],
+  "tags": ["euripides", "hippolytus", "tragedy", "reading"]
+}

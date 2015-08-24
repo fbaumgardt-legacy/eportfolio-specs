@@ -1,0 +1,22 @@
+euripides/orestes/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/euripides/orestes/reading/badge.json",
+  "name": "euripides orestes Reading Badge",
+  "description": "For reading Euripides' Orestes.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/euripides/orestes/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/euripides/orestes/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.3.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/3/1",
+      "description": "Read and understand in full the work Orestes by Euripides."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/X",
+      "description": "Identify and understand the use of syntactical rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["euripides", "orestes", "tragedy", "reading"]
+}

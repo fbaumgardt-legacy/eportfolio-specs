@@ -1,0 +1,22 @@
+homer/iliad/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/homer/iliad/reading/badge.json",
+  "name": "Homer Iliad Reading Badge",
+  "description": "For reading Homer's Iliad.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/homer/iliad/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/homer/iliad/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.EPIC.1.2",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/EPIC/1/2",
+      "description": "Read and understand in full the work Iliad by Homer."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["homer", "iliad", "tragedy", "reading"]
+}

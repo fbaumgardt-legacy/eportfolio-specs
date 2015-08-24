@@ -1,0 +1,22 @@
+genre/tragedy/500-400bc/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/genre/tragedy/500-400bc/badge.json",
+  "name": "Tragedies 500-400BC Reading Badge",
+  "description": "For studying Greek tragedies in the 5th century BC.",
+  "image": "https://perseids.github.io/badge-ecosystem/genre/tragedy/500-400bc/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/genre/tragedy/500-400bc/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.GENRE.2.500-400bc",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GENRE/2/500-400bc",
+      "description": "Study Greek tragedies from 500-400BC."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
+      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["ancient greece", "5th century BC", "tragedies", "reading"]
+}

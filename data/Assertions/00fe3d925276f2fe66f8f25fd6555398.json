@@ -1,0 +1,16 @@
+{
+	"uid": "00fe3d925276f2fe66f8f25fd6555398",
+	"recipient": {
+		"identity": "joe.doe@tufts.edu",
+		"type": "email",
+		"hashed": "False"
+	},
+	"badge": "https://github.com/Perseids/eportfolio/badges/literature/greek/euripides/reading.json",
+	"verify": {
+		"type": "hosted",
+		"url": "https://verify.perseus.tufts.edu/00fe3d925276f2fe66f8f25fd6555398"
+	},
+	"issuedOn": "2015-08-22",
+	"image": "<Data URL>",
+	"evidence": "https://github.com/joe.doe/someRepo/tree/ve45tyev4t5"
+}

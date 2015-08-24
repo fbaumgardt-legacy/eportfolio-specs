@@ -1,0 +1,22 @@
+pindar/olympianodes/reading.json
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "https://perseids.github.io/badge-ecosystem/greek/pindar/olympianodes/reading/badge.json",
+  "name": "Pindar Olympian Odes Reading Badge",
+  "description": "For reading Pindar's Olympian Odes.",
+  "image": "https://perseids.github.io/badge-ecosystem/greek/pindar/olympianodes/reading/badge.png",
+  "criteria": "https://perseids.github.io/badge-ecosystem/greek/pindar/olympianodes/reading/badge.html",
+  "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
+  "alignment": [
+    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.3.1",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/3/1",
+      "description": "Read and understand in full the Olympian Odes by Pindar."
+    },
+    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
+      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/X",
+      "description": "Identify and understand the use of syntactical rule X in Ancient Greek."
+    }
+  ],
+  "tags": ["pindar", "olympianodes", "tragedy", "reading"]
+}
