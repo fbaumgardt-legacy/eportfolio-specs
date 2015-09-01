@@ -1,0 +1,16 @@
+{
+	"uid": "a018b5d94df1626a6c69d6d971b686a5",
+	"recipient": {
+		"identity": "jane.doe@tufts.edu",
+		"type": "email",
+		"hashed": "False"
+	},
+	"badge": "https://github.com/Perseids/eportfolio/badges/literature/greek/homer/iliad/reading.json",
+	"verify": {
+		"type": "hosted",
+		"url": "https://verify.perseus.tufts.edu/a018b5d94df1626a6c69d6d971b686a5"
+	},
+	"issuedOn": "2015-08-14",
+	"image": "<Data URL>",
+	"evidence": "https://github.com/joe.doe/someRepo/tree/ve4n6ht56ev4t5"
+}
