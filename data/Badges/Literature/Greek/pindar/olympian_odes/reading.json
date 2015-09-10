@@ -8,14 +8,11 @@
   "criteria": "https://perseids.github.io/badge-ecosystem/greek/pindar/olympianodes/reading/badge.html",
   "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
   "alignment": [
-    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.3.1",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/3/1",
-      "description": "Read and understand in full the Olympian Odes by Pindar."
-    },
-    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/X",
-      "description": "Identify and understand the use of syntactical rule X in Ancient Greek."
-    }
+  {
+    "id": "TuftsClassics.PERSEUS-Literacy.PROSODY.M.2.1",
+    "url":"https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.prosody.m.2.1.json",
+    "definition": "Identify iambic tetrameter."
+  }
   ],
   "tags": ["pindar", "olympianodes", "tragedy", "reading"]
 }

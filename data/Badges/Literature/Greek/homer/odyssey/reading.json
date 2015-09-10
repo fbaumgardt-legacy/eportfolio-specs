@@ -8,13 +8,10 @@
   "criteria": "https://perseids.github.io/badge-ecosystem/greek/homer/odyssey/reading/badge.html",
   "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
   "alignment": [
-    { "name": "TuftsClassics.PERSEUS-Literacy.EPIC.1.1",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/EPIC/1/1",
-      "description": "Read and understand in full the work Odyssey by Homer."
-    },
-    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
-      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.PROSODY.M.1.2",
+      "url":"https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.prosody.m.1.2.json",
+      "definition": "Identify dactylic pentameter."
     }
   ],
   "tags": ["homer", "odyssey", "epic", "reading"]

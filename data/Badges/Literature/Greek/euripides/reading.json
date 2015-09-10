@@ -8,17 +8,50 @@
   "criteria": "https://perseids.github.io/badge-ecosystem/greek/euripides/reading/badge.html",
   "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
   "alignment": [
-    { "name": "TuftsClassics.PERSEUS-Literacy.AUTHOR.1.1",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/AUTHOR/1/1",
-      "description": "Read and understand in full euripides's body of work."
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.5",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.5.json",
+      "definition": "Interpret noun expressions in vocative case."
     },
-    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
-      "description": "Identify and understand the use of morphological rule X in Ancient Greek."
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.6",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.6.json",
+      "definition": "Use noun expressions in nominative case."
     },
-    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.2.X",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/3/X",
-      "description": "Identify and understand the use of grammatical rule X in Ancient Greek."
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.7",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.7.json",
+      "definition": "Use noun expressions in genitive case."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.8",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.8.json",
+      "definition": "Use noun expressions in dative case."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.9",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.9.json",
+      "definition": "Use noun expressions in accusative case."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.10",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.1.1.json0",
+      "definition": "Use noun expressions in vocative case."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.2",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.2.json",
+      "definition": "Interpret expressions of declined adjectives and use them correctly."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.2.4",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.2.4.json",
+      "definition": "Use adjective expressions of the second declension."
+    },
+    {
+      "name": "TuftsClassics.PERSEUS-Literacy.GREEK.G.2.5",
+			"url": "https://github.com/fbaumgardt/eportfolio-specs/blob/master/data/standards/tuftsclassics.perseus-literacy.greek.g.2.5.json",
+      "definition": "Use adjective expressions of the third declension."
     }
   ],
   "tags": ["euripides", "author", "reading"]

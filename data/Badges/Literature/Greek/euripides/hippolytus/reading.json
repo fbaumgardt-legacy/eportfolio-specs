@@ -8,13 +8,29 @@
   "criteria": "https://perseids.github.io/badge-ecosystem/greek/euripides/hippolytus/reading/badge.html",
   "issuer": "https://perseids.github.io/badge-ecosystem/organization.json",
   "alignment": [
-    { "name": "TuftsClassics.PERSEUS-Literacy.TRAG.3.1",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/TRAG/3/1",
-      "description": "Read and understand in full the work Hippolytus by Euripides."
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.1",
+      "definition": "Interpret noun expressions in nominative case."
     },
-    { "name": "TuftsClassics.PERSEUS-Literacy.GREEK.3.X",
-      "url": "http://www.tuftsclassicsstandards.org/PERSEUS-Literacy/GREEK/2/Y",
-      "description": "Identify and understand the use of syntactical rule Y in Ancient Greek."
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.2",
+      "definition": "Interpret noun expressions in genitive case."
+    },
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.3",
+      "definition": "Interpret noun expressions in dative case."
+    },
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.4",
+      "definition": "Interpret noun expressions in accusative case."
+    },
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.9",
+      "definition": "Use noun expressions in accusative case."
+    },
+    {
+      "id": "TuftsClassics.PERSEUS-Literacy.GREEK.G.1.10",
+      "definition": "Use noun expressions in vocative case."
     }
   ],
   "tags": ["euripides", "hippolytus", "tragedy", "reading"]
